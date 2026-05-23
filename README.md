@@ -118,6 +118,4 @@ Lanka Prashad
 - Python Learner
 - Data Science Student
 
----
 
-If you like this project, give it a ⭐ on GitHub
